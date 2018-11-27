@@ -15,7 +15,7 @@ class Projects extends Component {
 
             {/* React */}
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: 'black', height: '176px', background: 'url(https://miro.medium.com/max/1120/1*yQPzM3BaubJgWQkoL29iOw.png) center / cover'}} >React Weather App</CardTitle>
+            <CardTitle style={{color: 'white', height: '176px', background: 'url(https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif) center / cover'}} >React Weather App</CardTitle>
             <CardText>REACT WEATHER APP</CardText>
             <CardActions border>
             <Button href="https://git.heroku.com/ed-weather-app.git" target="_blank" colored>App</Button>
@@ -144,7 +144,7 @@ class Projects extends Component {
 
                 {/* PYTHON */}
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn-images-1.medium.com/max/1600/1*WHf2-YddJQ1wdBGOvAo8Gw.gif) center / cover'}} >REact Project</CardTitle>
+                <CardTitle style={{color: 'black', height: '176px', background: 'url(https://media2.giphy.com/labs/images/giphypop-python-library.gif) center / cover'}} >Python Project</CardTitle>
                 <CardText>hjhbjhhhvgvggh g gvjhgvhg  ghgvjhgv gkhjvjhv jhv g vgvvg jhgvvjhgv jgvgvjgvj hg jh</CardText>
                 <CardActions border>
                 <Button colored>App</Button>
